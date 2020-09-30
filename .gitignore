@@ -115,7 +115,7 @@ dist
 /coverage
 
 # production
-/build
+# I want to push the build to git to render on git pages
 
 # misc
 .DS_Store
